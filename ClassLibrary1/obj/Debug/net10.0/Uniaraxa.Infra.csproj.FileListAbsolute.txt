@@ -1,0 +1,15 @@
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\ClassLibrary1\bin\Debug\net10.0\Uniaraxa.Infra.deps.json
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\ClassLibrary1\bin\Debug\net10.0\Uniaraxa.Infra.dll
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\ClassLibrary1\bin\Debug\net10.0\Uniaraxa.Infra.pdb
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\ClassLibrary1\bin\Debug\net10.0\Uniaraxa.Domain.dll
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\ClassLibrary1\bin\Debug\net10.0\Uniaraxa.Domain.pdb
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\ClassLibrary1\obj\Debug\net10.0\Uniaraxa.Infra.csproj.AssemblyReference.cache
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\ClassLibrary1\obj\Debug\net10.0\Uniaraxa.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\ClassLibrary1\obj\Debug\net10.0\Uniaraxa.Infra.AssemblyInfoInputs.cache
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\ClassLibrary1\obj\Debug\net10.0\Uniaraxa.Infra.AssemblyInfo.cs
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\ClassLibrary1\obj\Debug\net10.0\Uniaraxa.Infra.csproj.CoreCompileInputs.cache
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\ClassLibrary1\obj\Debug\net10.0\Uniaraxa.A80064DF.Up2Date
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\ClassLibrary1\obj\Debug\net10.0\Uniaraxa.Infra.dll
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\ClassLibrary1\obj\Debug\net10.0\refint\Uniaraxa.Infra.dll
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\ClassLibrary1\obj\Debug\net10.0\Uniaraxa.Infra.pdb
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\ClassLibrary1\obj\Debug\net10.0\ref\Uniaraxa.Infra.dll

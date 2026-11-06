@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Uniaraxa.Service/1.0.0": {
+        "dependencies": {
+          "Uniaraxa.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Uniaraxa.Service.dll": {}
+        }
+      },
+      "Uniaraxa.Domain/1.0.0": {
+        "runtime": {
+          "Uniaraxa.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uniaraxa.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Uniaraxa.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

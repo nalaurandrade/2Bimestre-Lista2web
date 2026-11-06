@@ -1,0 +1,15 @@
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Service\bin\Debug\net10.0\Uniaraxa.Service.deps.json
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Service\bin\Debug\net10.0\Uniaraxa.Service.dll
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Service\bin\Debug\net10.0\Uniaraxa.Service.pdb
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Service\bin\Debug\net10.0\Uniaraxa.Domain.dll
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Service\bin\Debug\net10.0\Uniaraxa.Domain.pdb
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Service\obj\Debug\net10.0\Uniaraxa.Service.csproj.AssemblyReference.cache
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Service\obj\Debug\net10.0\Uniaraxa.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Service\obj\Debug\net10.0\Uniaraxa.Service.AssemblyInfoInputs.cache
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Service\obj\Debug\net10.0\Uniaraxa.Service.AssemblyInfo.cs
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Service\obj\Debug\net10.0\Uniaraxa.Service.csproj.CoreCompileInputs.cache
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Service\obj\Debug\net10.0\Uniaraxa.06FB575C.Up2Date
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Service\obj\Debug\net10.0\Uniaraxa.Service.dll
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Service\obj\Debug\net10.0\refint\Uniaraxa.Service.dll
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Service\obj\Debug\net10.0\Uniaraxa.Service.pdb
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Service\obj\Debug\net10.0\ref\Uniaraxa.Service.dll

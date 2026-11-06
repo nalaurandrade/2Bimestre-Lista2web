@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\Uniaraxa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA56994D-503C-328F-1AC2-D46537321BE2}|Uniaraxa.Domain\\Uniaraxa.Domain.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\uniaraxa\\uniaraxa.domain\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA56994D-503C-328F-1AC2-D46537321BE2}|Uniaraxa.Domain\\Uniaraxa.Domain.csproj|solutionrelative:uniaraxa.domain\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B991097-0695-CBC4-8C79-76D56C8F5153}|Uniaraxa.API\\Uniaraxa.API.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\uniaraxa\\uniaraxa.api\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B991097-0695-CBC4-8C79-76D56C8F5153}|Uniaraxa.API\\Uniaraxa.API.csproj|solutionrelative:uniaraxa.api\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871F60B5-335F-A243-9ED7-9C251D2C00C9}|Uniaraxa.Service\\Uniaraxa.Service.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\uniaraxa\\uniaraxa.service\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871F60B5-335F-A243-9ED7-9C251D2C00C9}|Uniaraxa.Service\\Uniaraxa.Service.csproj|solutionrelative:uniaraxa.service\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871F60B5-335F-A243-9ED7-9C251D2C00C9}|Uniaraxa.Service\\Uniaraxa.Service.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\uniaraxa\\uniaraxa.service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871F60B5-335F-A243-9ED7-9C251D2C00C9}|Uniaraxa.Service\\Uniaraxa.Service.csproj|solutionrelative:uniaraxa.service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B991097-0695-CBC4-8C79-76D56C8F5153}|Uniaraxa.API\\Uniaraxa.API.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\uniaraxa\\uniaraxa.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B991097-0695-CBC4-8C79-76D56C8F5153}|Uniaraxa.API\\Uniaraxa.API.csproj|solutionrelative:uniaraxa.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871F60B5-335F-A243-9ED7-9C251D2C00C9}|Uniaraxa.Service\\Uniaraxa.Service.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\uniaraxa\\uniaraxa.service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871F60B5-335F-A243-9ED7-9C251D2C00C9}|Uniaraxa.Service\\Uniaraxa.Service.csproj|solutionrelative:uniaraxa.service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836B67EA-143E-3288-9B08-7229E52C83CB}|ClassLibrary1\\Uniaraxa.Infra.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\uniaraxa\\classlibrary1\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836B67EA-143E-3288-9B08-7229E52C83CB}|ClassLibrary1\\Uniaraxa.Infra.csproj|solutionrelative:classlibrary1\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA56994D-503C-328F-1AC2-D46537321BE2}|Uniaraxa.Domain\\Uniaraxa.Domain.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\uniaraxa\\uniaraxa.domain\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA56994D-503C-328F-1AC2-D46537321BE2}|Uniaraxa.Domain\\Uniaraxa.Domain.csproj|solutionrelative:uniaraxa.domain\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\Uniaraxa\\Uniaraxa.API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Uniaraxa.API\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\Uniaraxa\\Uniaraxa.API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Uniaraxa.API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T16:34:48.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\Uniaraxa\\Uniaraxa.API\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Uniaraxa.API\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\Uniaraxa\\Uniaraxa.API\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Uniaraxa.API\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA9wDYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:45:33.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\Uniaraxa\\Uniaraxa.Service\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "Uniaraxa.Service\\ITeacherService.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\Uniaraxa\\Uniaraxa.Service\\ITeacherService.cs",
+              "RelativeToolTip": "Uniaraxa.Service\\ITeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:49:38.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\Uniaraxa\\Uniaraxa.Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "Uniaraxa.Service\\StudentService.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\Uniaraxa\\Uniaraxa.Service\\StudentService.cs",
+              "RelativeToolTip": "Uniaraxa.Service\\StudentService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:48:41.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\Uniaraxa\\Uniaraxa.Service\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Uniaraxa.Service\\IStudentService.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\Uniaraxa\\Uniaraxa.Service\\IStudentService.cs",
+              "RelativeToolTip": "Uniaraxa.Service\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:47:53.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\Uniaraxa\\Uniaraxa.Domain\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "Uniaraxa.Domain\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\Uniaraxa\\Uniaraxa.Domain\\Entities\\Teacher.cs",
+              "RelativeToolTip": "Uniaraxa.Domain\\Entities\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:27:34.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\Uniaraxa\\ClassLibrary1\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\Uniaraxa\\ClassLibrary1\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:31:21.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\Uniaraxa\\Uniaraxa.Domain\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Uniaraxa.Domain\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\Uniaraxa\\Uniaraxa.Domain\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "Uniaraxa.Domain\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:35:21.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

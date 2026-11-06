@@ -1,0 +1,11 @@
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Domain\bin\Debug\net10.0\Uniaraxa.Domain.deps.json
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Domain\bin\Debug\net10.0\Uniaraxa.Domain.dll
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Domain\bin\Debug\net10.0\Uniaraxa.Domain.pdb
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Domain\obj\Debug\net10.0\Uniaraxa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Domain\obj\Debug\net10.0\Uniaraxa.Domain.AssemblyInfoInputs.cache
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Domain\obj\Debug\net10.0\Uniaraxa.Domain.AssemblyInfo.cs
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Domain\obj\Debug\net10.0\Uniaraxa.Domain.csproj.CoreCompileInputs.cache
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Domain\obj\Debug\net10.0\Uniaraxa.Domain.dll
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Domain\obj\Debug\net10.0\refint\Uniaraxa.Domain.dll
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Domain\obj\Debug\net10.0\Uniaraxa.Domain.pdb
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.Domain\obj\Debug\net10.0\ref\Uniaraxa.Domain.dll

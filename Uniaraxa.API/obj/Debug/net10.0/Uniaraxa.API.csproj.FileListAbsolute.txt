@@ -1,0 +1,8 @@
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.API\obj\Debug\net10.0\Uniaraxa.API.csproj.AssemblyReference.cache
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.API\obj\Debug\net10.0\Uniaraxa.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.API\obj\Debug\net10.0\Uniaraxa.API.AssemblyInfoInputs.cache
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.API\obj\Debug\net10.0\Uniaraxa.API.AssemblyInfo.cs
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.API\obj\Debug\net10.0\Uniaraxa.API.csproj.CoreCompileInputs.cache
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.API\obj\Debug\net10.0\Uniaraxa.API.MvcApplicationPartsAssemblyInfo.cs
+C:\SI unidade C\Desenvolvimento de Aplicativos Web e Cloud Computing\Uniaraxa\Uniaraxa.API\obj\Debug\net10.0\Uniaraxa.API.MvcApplicationPartsAssemblyInfo.cache
